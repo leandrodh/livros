@@ -10,7 +10,7 @@ Excalibur|Bernard Cornwell|As Crônicas de Artur 3|Ficção histórica||||lido
 Stonehenge|Bernard Cornwell||Ficção histórica||||lido
 Azincourt|Bernard Cornwell||Ficção histórica||||lido
 O Condenado|Bernard Cornwell||Ficção histórica||||lido
-Por um Triz|Bernard Cornwell||Ficção histórica||||lido|Não aparece no catálogo da Record; autor a confirmar
+Por um Triz|Bernard Cornwell||Suspense / Navegação||||lido|Título em português confirmado pelo leitor, de um suspense de vela. Originais da série: Wildtrack, Sea Lord, Crackdown e Stormchild. A edição com esse título não apareceu nos catálogos
 O Forte|Bernard Cornwell||Ficção histórica||||lido
 O Último Reino|Bernard Cornwell|Crônicas Saxônicas 1|Ficção histórica||||lido
 O Cavaleiro da Morte|Bernard Cornwell|Crônicas Saxônicas 2|Ficção histórica||||lido
@@ -26,7 +26,7 @@ A Guerra do Lobo|Bernard Cornwell|Crônicas Saxônicas 11|Ficção histórica|20
 A Espada dos Reis|Bernard Cornwell|Crônicas Saxônicas 12|Ficção histórica|2023|||lido
 O Senhor da Guerra|Bernard Cornwell|Crônicas Saxônicas 13|Ficção histórica|2024|||lido
 Noite na Taverna|Álvares de Azevedo||Clássico / Terror||||lido
-A Barricada|Edgar Allan Poe||Clássico / Terror||||lido|Não localizei conto de Poe com esse título
+A Barricada|Edgar Allan Poe||Clássico / Terror||||lido|Autor confirmado pelo leitor. O conto não aparece com esse título nas bibliografias usuais de Poe
 Artemis Fowl|Eoin Colfer|Artemis Fowl 1|Fantasia||||lido|
 Artemis Fowl: Uma Aventura no Ártico|Eoin Colfer|Artemis Fowl 2|Fantasia||||lido|
 O Guia do Mochileiro das Galáxias|Douglas Adams|Mochileiro 1|Ficção científica / Humor||||lido
@@ -111,7 +111,7 @@ Direito Constitucional Anotado|(não confirmado)||Estudos / Concurso||||lido|Nã
 Por que Engordamos: e o que Fazer para Evitar|Gary Taubes||Saúde / Nutrição|2016|||lido|Título original: Why We Get Fat
 How to Run a 50K|(não confirmado)||Corrida|2018||Inglês|lido|Título exato não localizado
 The Primal Blueprint|Mark Sisson||Saúde / Nutrição|2018||Inglês|lido
-SOAR|(não confirmado)||Autoajuda|2019|||lido|Título exato não localizado
+Soar: The Breakthrough Treatment for Fear of Flying|Tom Bunn||Medo de voar|2019||Inglês|lido|Programa SOAR, do capitão Tom Bunn. Publicado em 2013 pela Lyons Press
 Never Split the Difference|Chris Voss||Negociação|2020||Inglês|lido
 Inteligência em Concursos|Pierluigi Piazzi||Estudos / Concurso|2020|||lido|Anotado como estudo concurso Pier
 A Lógica do Cisne Negro|Nassim Nicholas Taleb||Risco / Probabilidade|2021|||lido
@@ -123,7 +123,7 @@ Aventuras, Guias e Não Ficção
 Tocando o Vazio|Joe Simpson||Montanhismo||||lido
 No Ar Rarefeito|Jon Krakauer||Montanhismo||||lido
 127 Horas|Aron Ralston||Aventura / Sobrevivência||||lido
-Em Busca da Alma do Meu Pai|(não confirmado)||Biografia / Montanhismo||||lido|Não confirmei edição em português com esse título
+Em Busca da Alma de Meu Pai|Jamling Tenzing Norgay e Broughton Coburn||Biografia / Montanhismo||||lido|Título original: Touching My Father's Soul. Companhia das Letras, 2002
 Falcão: Meninos do Tráfico|MV Bill e Celso Athayde||Reportagem||||lido
 Cem Dias entre Céu e Mar|Amyr Klink||Aventura / Navegação||||lido
 Convite à Aventura|Sérgio Beck||Montanhismo||||lido|

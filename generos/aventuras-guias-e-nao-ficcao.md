@@ -21,14 +21,14 @@
 |---|---|---|---|---|---|---|---|
 | 127 Horas |  | Aventura / Sobrevivência |  |  |  | lido |  |
 
-## (não confirmado)
+## Jamling Tenzing Norgay e Broughton Coburn
 
 | Título | Série | Gênero | Ano | Formato | Idioma | Status | Nota |
 |---|---|---|---|---|---|---|---|
-| Em Busca da Alma do Meu Pai |  | Biografia / Montanhismo |  |  |  | lido |  |
+| Em Busca da Alma de Meu Pai |  | Biografia / Montanhismo |  |  |  | lido |  |
 
 Conferência:
-- Em Busca da Alma do Meu Pai: Não confirmei edição em português com esse título
+- Em Busca da Alma de Meu Pai: Título original: Touching My Father's Soul. Companhia das Letras, 2002
 
 ## MV Bill e Celso Athayde
 

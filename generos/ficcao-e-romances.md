@@ -16,7 +16,7 @@
 | Stonehenge |  | Ficção histórica |  |  |  | lido |  |
 | Azincourt |  | Ficção histórica |  |  |  | lido |  |
 | O Condenado |  | Ficção histórica |  |  |  | lido |  |
-| Por um Triz |  | Ficção histórica |  |  |  | lido |  |
+| Por um Triz |  | Suspense / Navegação |  |  |  | lido |  |
 | O Forte |  | Ficção histórica |  |  |  | lido |  |
 | O Último Reino | Crônicas Saxônicas 1 | Ficção histórica |  |  |  | lido |  |
 | O Cavaleiro da Morte | Crônicas Saxônicas 2 | Ficção histórica |  |  |  | lido |  |
@@ -33,7 +33,7 @@
 | O Senhor da Guerra | Crônicas Saxônicas 13 | Ficção histórica | 2024 |  |  | lido |  |
 
 Conferência:
-- Por um Triz: Não aparece no catálogo da Record; autor a confirmar
+- Por um Triz: Título em português confirmado pelo leitor, de um suspense de vela. Originais da série: Wildtrack, Sea Lord, Crackdown e Stormchild. A edição com esse título não apareceu nos catálogos
 
 ## Álvares de Azevedo
 
@@ -48,7 +48,7 @@ Conferência:
 | A Barricada |  | Clássico / Terror |  |  |  | lido |  |
 
 Conferência:
-- A Barricada: Não localizei conto de Poe com esse título
+- A Barricada: Autor confirmado pelo leitor. O conto não aparece com esse título nas bibliografias usuais de Poe
 
 ## Eoin Colfer
 

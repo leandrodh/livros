@@ -34,13 +34,11 @@
 | Como Investir no Mercado de Ações |  | Investimentos |  |  |  | lido |  |
 | Direito Constitucional Anotado |  | Estudos / Concurso |  |  |  | lido |  |
 | How to Run a 50K |  | Corrida | 2018 |  | Inglês | lido |  |
-| SOAR |  | Autoajuda | 2019 |  |  | lido |  |
 
 Conferência:
 - Como Investir no Mercado de Ações: Título exato e autor não localizados
 - Direito Constitucional Anotado: Não é o mesmo que Direito Constitucional, de Alexandre de Moraes, nem o Esquematizado de Pedro Lenza
 - How to Run a 50K: Título exato não localizado
-- SOAR: Título exato não localizado
 
 ## Raj Patel
 
@@ -95,6 +93,15 @@ Conferência:
 | Título | Série | Gênero | Ano | Formato | Idioma | Status | Nota |
 |---|---|---|---|---|---|---|---|
 | The Primal Blueprint |  | Saúde / Nutrição | 2018 |  | Inglês | lido |  |
+
+## Tom Bunn
+
+| Título | Série | Gênero | Ano | Formato | Idioma | Status | Nota |
+|---|---|---|---|---|---|---|---|
+| Soar: The Breakthrough Treatment for Fear of Flying |  | Medo de voar | 2019 |  | Inglês | lido |  |
+
+Conferência:
+- Soar: The Breakthrough Treatment for Fear of Flying: Programa SOAR, do capitão Tom Bunn. Publicado em 2013 pela Lyons Press
 
 ## Chris Voss
 
