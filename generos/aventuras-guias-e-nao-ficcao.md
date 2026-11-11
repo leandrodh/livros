@@ -21,14 +21,14 @@
 |---|---|---|---|---|---|---|---|
 | 127 Horas |  | Aventura / Sobrevivência |  |  |  | lido |  |
 
-## (a confirmar)
+## (não confirmado)
 
 | Título | Série | Gênero | Ano | Formato | Idioma | Status | Nota |
 |---|---|---|---|---|---|---|---|
 | Em Busca da Alma do Meu Pai |  | Biografia / Montanhismo |  |  |  | lido |  |
-| Convite à Aventura |  | Aventura |  |  |  | lido |  |
-| Com Unhas e Dentes |  | Aventura / Biografia |  |  |  | lido |  |
-| O Veneno do Escorpião |  | Não ficção |  |  |  | lido |  |
+
+Conferência:
+- Em Busca da Alma do Meu Pai: Não confirmei edição em português com esse título
 
 ## MV Bill e Celso Athayde
 
@@ -41,6 +41,25 @@
 | Título | Série | Gênero | Ano | Formato | Idioma | Status | Nota |
 |---|---|---|---|---|---|---|---|
 | Cem Dias entre Céu e Mar |  | Aventura / Navegação |  |  |  | lido |  |
+
+## Sérgio Beck
+
+| Título | Série | Gênero | Ano | Formato | Idioma | Status | Nota |
+|---|---|---|---|---|---|---|---|
+| Convite à Aventura |  | Montanhismo |  |  |  | lido |  |
+| Com Unhas e Dentes |  | Montanhismo / Manual |  |  |  | lido |  |
+
+Conferência:
+- Com Unhas e Dentes: Manual de escalada, publicação independente
+
+## Bruna Surfistinha
+
+| Título | Série | Gênero | Ano | Formato | Idioma | Status | Nota |
+|---|---|---|---|---|---|---|---|
+| O Doce Veneno do Escorpião |  | Memórias |  |  |  | lido |  |
+
+Conferência:
+- O Doce Veneno do Escorpião: Anotado como Veneno do escorpião; correspondência mais próxima
 
 ## Drauzio Varella
 

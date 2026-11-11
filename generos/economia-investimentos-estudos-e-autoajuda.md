@@ -27,16 +27,20 @@
 |---|---|---|---|---|---|---|---|
 | Crash: Uma Breve História da Economia |  | Economia |  |  |  | lido |  |
 
-## (a confirmar)
+## (não confirmado)
 
 | Título | Série | Gênero | Ano | Formato | Idioma | Status | Nota |
 |---|---|---|---|---|---|---|---|
 | Como Investir no Mercado de Ações |  | Investimentos |  |  |  | lido |  |
-| Comprar ou Vender |  | Investimentos |  |  |  | lido |  |
 | Direito Constitucional Anotado |  | Estudos / Concurso |  |  |  | lido |  |
 | How to Run a 50K |  | Corrida | 2018 |  | Inglês | lido |  |
 | SOAR |  | Autoajuda | 2019 |  |  | lido |  |
-| Estudo para Concurso (Pier) |  | Estudos / Concurso | 2020 |  |  | lido |  |
+
+Conferência:
+- Como Investir no Mercado de Ações: Título exato e autor não localizados
+- Direito Constitucional Anotado: Não é o mesmo que Direito Constitucional, de Alexandre de Moraes, nem o Esquematizado de Pedro Lenza
+- How to Run a 50K: Título exato não localizado
+- SOAR: Título exato não localizado
 
 ## Raj Patel
 
@@ -56,6 +60,15 @@
 |---|---|---|---|---|---|---|---|
 | A Arte da Guerra |  | Estratégia |  |  |  | lido |  |
 
+## Eduardo Koiti Matsura
+
+| Título | Série | Gênero | Ano | Formato | Idioma | Status | Nota |
+|---|---|---|---|---|---|---|---|
+| Comprar ou Vender? |  | Investimentos |  |  |  | lido |  |
+
+Conferência:
+- Comprar ou Vender?: Subtítulo: Como investir na bolsa utilizando análise gráfica
+
 ## Gustavo Cerbasi
 
 | Título | Série | Gênero | Ano | Formato | Idioma | Status | Nota |
@@ -72,7 +85,10 @@
 
 | Título | Série | Gênero | Ano | Formato | Idioma | Status | Nota |
 |---|---|---|---|---|---|---|---|
-| Por que Engordamos |  | Saúde / Nutrição | 2016 |  |  | lido |  |
+| Por que Engordamos: e o que Fazer para Evitar |  | Saúde / Nutrição | 2016 |  |  | lido |  |
+
+Conferência:
+- Por que Engordamos: e o que Fazer para Evitar: Título original: Why We Get Fat
 
 ## Mark Sisson
 
@@ -85,6 +101,15 @@
 | Título | Série | Gênero | Ano | Formato | Idioma | Status | Nota |
 |---|---|---|---|---|---|---|---|
 | Never Split the Difference |  | Negociação | 2020 |  | Inglês | lido |  |
+
+## Pierluigi Piazzi
+
+| Título | Série | Gênero | Ano | Formato | Idioma | Status | Nota |
+|---|---|---|---|---|---|---|---|
+| Inteligência em Concursos |  | Estudos / Concurso | 2020 |  |  | lido |  |
+
+Conferência:
+- Inteligência em Concursos: Anotado como estudo concurso Pier
 
 ## Nassim Nicholas Taleb
 

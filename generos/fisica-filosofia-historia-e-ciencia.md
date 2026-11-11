@@ -56,23 +56,20 @@
 
 | Título | Série | Gênero | Ano | Formato | Idioma | Status | Nota |
 |---|---|---|---|---|---|---|---|
-| Antologia 2 |  | Ficção científica / Contos |  |  |  | lido |  |
-
-## (a confirmar)
-
-| Título | Série | Gênero | Ano | Formato | Idioma | Status | Nota |
-|---|---|---|---|---|---|---|---|
-| Desvendando o Arco-Íris (Feynman) |  | Física |  |  |  | lido |  |
-| Como Ler Mais e Melhor |  | Aprendizagem |  |  |  | lido |  |
+| Antologia 2: 1974-1989 |  | Ficção científica / Contos |  |  |  | lido |  |
 
 ## Leonard Mlodinow
 
 | Título | Série | Gênero | Ano | Formato | Idioma | Status | Nota |
 |---|---|---|---|---|---|---|---|
+| O Arco-Íris de Feynman |  | Física / Biografia |  |  |  | lido |  |
 | O Andar do Bêbado |  | Probabilidade |  |  |  | lido |  |
 | A Janela de Euclides |  | Matemática / Física |  |  |  | lido |  |
 | Subliminar |  | Psicologia |  |  |  | lido |  |
 | Elástico |  | Psicologia | 2020 |  |  | lido |  |
+
+Conferência:
+- O Arco-Íris de Feynman: Título original: Feynman's Rainbow
 
 ## Immanuel Kant
 
@@ -91,6 +88,15 @@
 | Título | Série | Gênero | Ano | Formato | Idioma | Status | Nota |
 |---|---|---|---|---|---|---|---|
 | Os Números (Não) Mentem |  | Matemática / Sociedade |  |  |  | lido |  |
+
+## Ismar Souza
+
+| Título | Série | Gênero | Ano | Formato | Idioma | Status | Nota |
+|---|---|---|---|---|---|---|---|
+| Leitura Eficiente: Como Ler Mais e Melhor |  | Aprendizagem |  |  |  | lido |  |
+
+Conferência:
+- Leitura Eficiente: Como Ler Mais e Melhor: Correspondência mais próxima do título anotado
 
 ## Yuval Noah Harari
 

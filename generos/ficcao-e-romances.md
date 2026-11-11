@@ -7,9 +7,9 @@
 
 | Título | Série | Gênero | Ano | Formato | Idioma | Status | Nota |
 |---|---|---|---|---|---|---|---|
-| O Andarilho | A Busca do Graal 2 | Ficção histórica |  |  |  | lido |  |
-| O Herege | A Busca do Graal 3 | Ficção histórica |  |  |  | lido |  |
-| O Arqueiro | A Busca do Graal 1 | Ficção histórica |  |  |  | lido |  |
+| O Andarilho | A busca do Graal 2 | Ficção histórica |  |  |  | lido |  |
+| O Herege | A busca do Graal 3 | Ficção histórica |  |  |  | lido |  |
+| O Arqueiro | A busca do Graal 1 | Ficção histórica |  |  |  | lido |  |
 | O Rei do Inverno | As Crônicas de Artur 1 | Ficção histórica |  |  |  | lido |  |
 | O Inimigo de Deus | As Crônicas de Artur 2 | Ficção histórica |  |  |  | lido |  |
 | Excalibur | As Crônicas de Artur 3 | Ficção histórica |  |  |  | lido |  |
@@ -32,6 +32,9 @@
 | A Espada dos Reis | Crônicas Saxônicas 12 | Ficção histórica | 2023 |  |  | lido |  |
 | O Senhor da Guerra | Crônicas Saxônicas 13 | Ficção histórica | 2024 |  |  | lido |  |
 
+Conferência:
+- Por um Triz: Não aparece no catálogo da Record; autor a confirmar
+
 ## Álvares de Azevedo
 
 | Título | Série | Gênero | Ano | Formato | Idioma | Status | Nota |
@@ -44,12 +47,15 @@
 |---|---|---|---|---|---|---|---|
 | A Barricada |  | Clássico / Terror |  |  |  | lido |  |
 
+Conferência:
+- A Barricada: Não localizei conto de Poe com esse título
+
 ## Eoin Colfer
 
 | Título | Série | Gênero | Ano | Formato | Idioma | Status | Nota |
 |---|---|---|---|---|---|---|---|
-| Artemis Fowl 1 | Artemis Fowl 1 | Fantasia |  |  |  | lido |  |
-| Artemis Fowl 2 | Artemis Fowl 2 | Fantasia |  |  |  | lido |  |
+| Artemis Fowl | Artemis Fowl 1 | Fantasia |  |  |  | lido |  |
+| Artemis Fowl: Uma Aventura no Ártico | Artemis Fowl 2 | Fantasia |  |  |  | lido |  |
 | E Tem Outra Coisa... | Mochileiro 6 | Ficção científica / Humor |  |  |  | lido |  |
 
 ## Douglas Adams
@@ -77,10 +83,14 @@
 | Título | Série | Gênero | Ano | Formato | Idioma | Status | Nota |
 |---|---|---|---|---|---|---|---|
 | Deuses Americanos |  | Fantasia |  |  |  | lido |  |
-| Fumaça e Espelhos |  | Contos / Fantasia |  |  |  | lido |  |
-| Contos (Neil Gaiman) |  | Contos / Fantasia |  |  |  | lido |  |
+| Fumaça e Espelhos: Contos e Ilusões |  | Contos / Fantasia |  |  |  | lido |  |
+| Contos |  | Contos / Fantasia |  |  |  | lido |  |
 | Coraline |  | Fantasia / Terror |  |  |  | lido |  |
 | Mitologia Nórdica |  | Mitologia | 2024 | Audiobook | Português | lido |  |
+
+Conferência:
+- Fumaça e Espelhos: Contos e Ilusões: Título original: Smoke and Mirrors
+- Contos: Coletânea não identificada; pode repetir Fumaça e Espelhos
 
 ## Stephen King
 
@@ -100,8 +110,12 @@
 
 | Título | Série | Gênero | Ano | Formato | Idioma | Status | Nota |
 |---|---|---|---|---|---|---|---|
-| Angus 1 | Angus 1 | Fantasia histórica |  |  |  | lido |  |
-| Angus 2 | Angus 2 | Fantasia histórica |  |  |  | lido |  |
+| Angus: O Primeiro Guerreiro | Angus 1 | Fantasia histórica |  |  |  | lido |  |
+| Angus: O Guerreiro de Deus | Angus 2 | Fantasia histórica |  |  |  | lido |  |
+
+Conferência:
+- Angus: O Primeiro Guerreiro: Primeiro livro da série, 2003
+- Angus: O Guerreiro de Deus: Segundo romance da série; confirmar se não foi Angus V.2 da Record
 
 ## Philip Pullman
 
@@ -133,13 +147,7 @@
 | Comédias para Ler na Escola |  | Crônicas / Humor |  |  |  | lido |  |
 | Mentiras que os Homens Contam |  | Crônicas / Humor |  |  |  | lido |  |
 | Sexo na Cabeça |  | Crônicas / Humor |  |  |  | lido |  |
-
-## (a confirmar)
-
-| Título | Série | Gênero | Ano | Formato | Idioma | Status | Nota |
-|---|---|---|---|---|---|---|---|
 | O Opositor |  | Ficção |  |  |  | lido |  |
-| La Esfera Luminosa |  | Ficção científica | 2026 | Audiobook | Espanhol | lido |  |
 
 ## Glen Cook
 
@@ -159,16 +167,27 @@
 |---|---|---|---|---|---|---|---|
 | Devoradores de Estrelas |  | Ficção científica | 2024 | Audiobook | Português | lido |  |
 
+Conferência:
+- Devoradores de Estrelas: Título original: Project Hail Mary
+
 ## Dennis E. Taylor
 
 | Título | Série | Gênero | Ano | Formato | Idioma | Status | Nota |
 |---|---|---|---|---|---|---|---|
-| Armadilha da Singularidade |  | Ficção científica | 2025 | Audiobook | Português | lido |  |
-| Somos Bob | Bobiverso 1 | Ficção científica | 2025 | Audiobook | Português | lido |  |
-| Pois Somos Muitos | Bobiverso 2 | Ficção científica | 2025 | Audiobook | Português | lido |  |
-| Todos Esses Mundos | Bobiverso 3 | Ficção científica | 2025 | Audiobook | Português | lido |  |
-| Hasta que nos perdamos | Bobiverso 4 | Ficção científica | 2026 | Audiobook | Espanhol | lido |  |
-| Río Celestial | Bobiverso 5 | Ficção científica | 2026 | Audiobook | Espanhol | lido |  |
+| A Armadilha da Singularidade |  | Ficção científica | 2025 | Audiobook | Português | lido |  |
+| Somos Legião (Somos Bob) | Bobverso 1 | Ficção científica | 2025 | Audiobook | Português | lido |  |
+| Pois Somos Muitos | Bobverso 2 | Ficção científica | 2025 | Audiobook | Português | lido |  |
+| Todos Esses Mundos | Bobverso 3 | Ficção científica | 2025 | Audiobook | Português | lido |  |
+| Rio Celestial | Bobiverso 4 | Ficção científica | 2026 | Audiobook | Espanhol | lido |  |
+| Hasta que nos perdamos | Bobiverso 5 | Ficção científica | 2026 | Audiobook | Espanhol | lido |  |
+
+Conferência:
+- A Armadilha da Singularidade: Título original: The Singularity Trap
+- Somos Legião (Somos Bob): Título original: We Are Legion (We Are Bob)
+- Pois Somos Muitos: Título original: For We Are Many
+- Todos Esses Mundos: Título original: All These Worlds
+- Rio Celestial: Título original: Heaven's River
+- Hasta que nos perdamos: Título original: Not Till We Are Lost
 
 ## Cixin Liu
 
@@ -177,6 +196,10 @@
 | O Problema dos Três Corpos | O Problema dos Três Corpos 1 | Ficção científica | 2025 | Audiobook | Português | lido |  |
 | A Floresta Sombria | O Problema dos Três Corpos 2 | Ficção científica | 2025 | Audiobook | Português | lido |  |
 | O Fim da Morte | O Problema dos Três Corpos 3 | Ficção científica | 2025 | Audiobook | Português | lido |  |
+| La Esfera Luminosa |  | Ficção científica | 2026 | Audiobook | Espanhol | lido |  |
+
+Conferência:
+- La Esfera Luminosa: Título original: Ball Lightning. Edição em espanhol
 
 ## Ken Follett
 
@@ -186,7 +209,10 @@
 | Mundo sem Fim | Kingsbridge 2 | Ficção histórica | 2025 | Audiobook | Português | lido |  |
 | Coluna de Fogo | Kingsbridge 3 | Ficção histórica | 2025 | Audiobook | Português | lido |  |
 | A Armadura da Luz | Kingsbridge 5 | Ficção histórica | 2026 | Audiobook | Português | lido |  |
-| O Círculo dos Dias |  | Ficção histórica | 2026 | Audiobook | Português | lido |  |
+| Círculo dos Dias |  | Ficção histórica | 2026 | Audiobook | Português | lido |  |
+
+Conferência:
+- Círculo dos Dias: Título original: Circle of Days
 
 ## Blake Crouch
 
@@ -211,19 +237,25 @@
 
 | Título | Série | Gênero | Ano | Formato | Idioma | Status | Nota |
 |---|---|---|---|---|---|---|---|
-| O Horror na Colina de Darrington |  | Terror | 2026 | Audiobook | Português | lido |  |
+| Horror na Colina de Darrington |  | Terror | 2026 | Audiobook | Português | lido |  |
 
-## Ian Fraga
+## Riley Sager
 
 | Título | Série | Gênero | Ano | Formato | Idioma | Status | Nota |
 |---|---|---|---|---|---|---|---|
 | O Massacre da Família Hope |  | Terror | 2026 | Audiobook | Português | lido |  |
 
+Conferência:
+- O Massacre da Família Hope: Nome verdadeiro do autor: Todd Ritter
+
 ## John Scalzi
 
 | Título | Série | Gênero | Ano | Formato | Idioma | Status | Nota |
 |---|---|---|---|---|---|---|---|
-| A Guerra do Velho | Guerra do Velho 1 | Ficção científica | 2026 | Audiobook | Português | lido |  |
+| Guerra do Velho | Guerra do Velho 1 | Ficção científica | 2026 | Audiobook | Português | lido |  |
+
+Conferência:
+- Guerra do Velho: Título original: Old Man's War
 
 ## Matt Dinniman
 

@@ -19,7 +19,7 @@
 | Alta | O Clube do Crime 3 e 4 | Richard Osman | Série iniciada |
 | Alta | O Crepúsculo e a Aurora / Kingsbridge 0 | Ken Follett | Fecha Kingsbridge |
 | Alta | Guerra do Velho 2: As Brigadas Fantasma | John Scalzi | Série iniciada |
-| Alta | Projeto Hail Mary / Perdido em Marte | Andy Weir | Mesmo autor de Devoradores de Estrelas (verificar se já é o mesmo título) |
+| Alta | Perdido em Marte | Andy Weir | Mesmo autor de Devoradores de Estrelas, que é o título brasileiro de Project Hail Mary |
 | Alta | Recursão | Blake Crouch | Mesmo estilo de Matéria Escura |
 | Média | Hyperion | Dan Simmons | Sci-fi épica e literária |
 | Média | Duna | Frank Herbert | Base do gênero, escala épica |
