@@ -126,6 +126,8 @@ Training for the Uphill Athlete|Steve House, Scott Johnston, Kílian Jornet||Tre
 Aventuras, Guias e Não Ficção
 Tocando o Vazio|Joe Simpson||Montanhismo||||lido
 No Ar Rarefeito|Jon Krakauer||Montanhismo||||lido
+Milagre nos Andes|Nando Parrado||Aventura / Sobrevivência|2017|||lido|Ano aproximado, informado pelo leitor. Título original: Miracle in the Andes
+A incrível viagem de Shackleton|Alfred Lansing||Exploração polar|2020|||lido|Título original: Endurance: Shackleton's Incredible Voyage
 127 Horas|Aron Ralston||Aventura / Sobrevivência||||lido
 Em Busca da Alma de Meu Pai|Jamling Tenzing Norgay e Broughton Coburn||Biografia / Montanhismo||||lido|Título original: Touching My Father's Soul. Companhia das Letras, 2002
 Falcão: Meninos do Tráfico|MV Bill e Celso Athayde||Reportagem||||lido
